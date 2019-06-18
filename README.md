@@ -9,3 +9,7 @@ puzzle is to move the entire stack to another rod, obeying the following simple 
 another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 
 3) No disk may be placed on top of a smaller disk.
+
+Note:-
+
+For n discs, number of steps required to complete the task = 2^n - 1
